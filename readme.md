@@ -1,0 +1,1 @@
+From the command line, run "bower install" in root to setup angular local database
